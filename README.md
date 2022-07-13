@@ -45,7 +45,6 @@ See the [AEM Content & Commerce documentation](https://experienceleague.adobe.co
 - [Category Carousel](ui.apps/src/main/content/jcr_root/apps/core/cif/components/commerce/categorycarousel/v1/categorycarousel)
 - [Commerce Experience Fragment](ui.apps/src/main/content/jcr_root/apps/core/cif/components/commerce/experiencefragment/v1/experiencefragment)
 - [Commerce Content Fragment](ui.apps/src/main/content/jcr_root/apps/core/cif/components/commerce/contentfragment/v1/contentfragment)
-- [Commerce Content Fragment](ui.apps/src/main/content/jcr_root/apps/core/cif/components/commerce/contentfragment/v1/contentfragment)
 - [Cart Details](ui.apps/src/main/content/jcr_root/apps/core/cif/components/commerce/cartdetails/v1/cartdetails)
 - [Checkout Page](ui.apps/src/main/content/jcr_root/apps/core/cif/components/commerce/checkoutpage/v1/checkoutpage)
 
